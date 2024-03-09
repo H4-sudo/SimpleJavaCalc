@@ -4,4 +4,4 @@ Simple Java calculator that gives a user the functionality to use a calculator w
 To my knowledge, there are no errors. However Optimisations can be made.
 
 ## Made by me.
-**Henrico Swanepoel for my first formative assessmnet at (CTU Training Solutions)**
+**Henrico Swanepoel for my first formative assessment at (CTU Training Solutions)**
