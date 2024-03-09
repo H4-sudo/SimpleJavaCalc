@@ -1,6 +1,7 @@
 # ***Simple Java Calculator***
 
-Simple Java calculator that gives a user the functionality to use a calculator within the command line interface
+Simple Java calculator that gives a user the functionality to use a calculator within the command line interface.
+To my knowledge, there are no errors. However Optimisations can be made.
 
 ## Made by me.
-**Henrico Swanepoel (CTU Training Solutions)**
+**Henrico Swanepoel for my first formative assessmnet at (CTU Training Solutions)**
