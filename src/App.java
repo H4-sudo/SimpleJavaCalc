@@ -46,7 +46,7 @@ public class App {
             try {
                 while (true) {
                     System.out.println("1. Add\n2. Subtract\n3. Multiply\n4. Divide\n0. Exit\nPlease select an option: ");
-                    
+
                     userChoice = scanner.nextInt();
                     switch (userChoice) {
                         case 1:
@@ -96,7 +96,7 @@ public class App {
                 }
             } catch (InputMismatchException e) {
                 System.out.println("Invalid input. Please try again.");
-    
+
                 scanner.next();
             }
         }
